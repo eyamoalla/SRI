@@ -1,0 +1,47 @@
+{
+   "checksum": "384fad910a813f0f2489b32f0f863dcf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13420913302074811",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13420913403988011",
+            "date_last_used": "0",
+            "guid": "43789629-0645-4f24-8133-24ccd5b27f31",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "X. C'est ce qu'il se passe / X",
+            "type": "url",
+            "url": "https://x.com/"
+         } ],
+         "date_added": "13420913302074811",
+         "date_last_used": "0",
+         "date_modified": "13420913403988011",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13420913302074811",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris d'appareils mobiles",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
